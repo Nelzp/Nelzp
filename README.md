@@ -1,7 +1,6 @@
 ## 👨‍💻 Nelson de Oliveira Junior
 
-🎓 Estudante de Ciência da Computação  
-💼 Estagiário de Engenharia de Sistemas  
+🎓 Estudante de Ciência da Computação 
 
 Sou apaixonado por tecnologia, programação e resolução de problemas. Atualmente, estou focado em desenvolvimento backend com Java e Spring, além de ampliar meus conhecimentos em arquitetura de sistemas, integração de serviços e boas práticas de desenvolvimento.
 
